@@ -16,7 +16,7 @@
 &nbsp; 
 <a href="https://www.w3schools.com/js/" target="_blank"><img width="32" height="32" src="https://github.com/raphabarzotto/raphabarzotto/blob/main/img/js.png?raw=true"/></a>
 &nbsp; 
-<a href="https://www.w3schools.com/typescript/typescript_intro.php" target="_blank"><img width="32" height="32" src="https://github.com/raphabarzotto/raphabarzotto/blob/main/img/ts.png?raw=true"/></a>
+<a href="https://www.w3schools.com/typescript/typescript_intro.php" target="_blank"><img width="32" height="32" src="https://github.com/raphabarzotto/raphabarzotto/blob/main/img/ts.svg?raw=true"/></a>
 &nbsp; 
 <a href="https://pt-br.reactjs.org/" target="_blank"><img width="32" height="32" src="https://github.com/raphabarzotto/raphabarzotto/blob/main/img/react.png?raw=true"/></a>
 &nbsp; 
