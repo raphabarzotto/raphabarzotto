@@ -5,7 +5,7 @@
 
 [![Linkedin: raphabarzotto](https://img.shields.io/badge/-raphabarzotto-blue?style-for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raphabarzotto/)](https://www.linkedin.com/in/raphabarzotto/)
 [![GMail](https://img.shields.io/badge/-GMAIL-D14836?style-for-the-badge&logo=gmail&logoColor=white)](mailto:raphabarzotto@gmail.com)
-[![Drive](https://img.shields.io/badge/-CERTIFICATES-white?style-for-the-badge&logo=&logoColor=black)](https://drive.google.com/drive/folders/1kpDMcCLdF4scAO1_wIqxx7naF58um6UK?usp=sharing)
+[![Certificates](https://img.shields.io/badge/-CERTIFICATES-white?style-for-the-badge&logo=&logoColor=black)](https://drive.google.com/drive/folders/1kpDMcCLdF4scAO1_wIqxx7naF58um6UK?usp=sharing)
 
 ## ⌨️ Languages and Tools 🖱
 <div>
