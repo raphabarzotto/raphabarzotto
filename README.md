@@ -3,7 +3,9 @@
 - 💻 In 2021 decided to study full-stack web-development at [Trybe](https://www.betrybe.com/)
 - 👨‍💻 Currently open to work
 
-[![Linkedin: raphabarzotto](https://img.shields.io/badge/-raphabarzotto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raphabarzotto/)](https://www.linkedin.com/in/raphabarzotto/)
+[![Linkedin: raphabarzotto](https://img.shields.io/badge/-raphabarzotto-blue?style-for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raphabarzotto/)](https://www.linkedin.com/in/raphabarzotto/)
+[![GMail](https://img.shields.io/badge/-GMAIL-D14836?style-for-the-badge&logo=gmail&logoColor=white)](mailto:raphabarzotto@gmail.com)
+[![Drive](https://img.shields.io/badge/-CERTIFICATES-white?style-for-the-badge&logo=&logoColor=black)](https://drive.google.com/drive/folders/1kpDMcCLdF4scAO1_wIqxx7naF58um6UK?usp=sharing)
 
 ## ⌨️ Languages and Tools 🖱
 <div>
