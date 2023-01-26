@@ -31,7 +31,7 @@
 <a href="https://www.heroku.com/" target="_blank"><img width="32" height="32" src="https://github.com/raphabarzotto/raphabarzotto/blob/main/img/heroku.png?raw=true"/></a>
 &nbsp; 
 <a href="https://www.postman.com/" target="_blank"><img width="32" height="32" src="https://github.com/raphabarzotto/raphabarzotto/blob/main/img/postman.png?raw=true"/></a>
-&nbsp;  
+&nbsp;
 <a href="https://code.visualstudio.com/" target="_blank"><img width="32" height="32" src="https://github.com/raphabarzotto/raphabarzotto/blob/main/img/vs.png?raw=true"/></a>
 &nbsp;
 <a href="https://redux.js.org/" target="_blank"><img width="32" height="32" src="https://github.com/raphabarzotto/raphabarzotto/blob/main/img/redux.png?raw=true"/></a>
