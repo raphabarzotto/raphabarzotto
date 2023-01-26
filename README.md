@@ -1,42 +1,21 @@
 # Hi, I'm Raphael Barzotto 👋
+[![Linkedin: raphabarzotto](https://img.shields.io/badge/-raphabarzotto-blue?style-for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raphabarzotto/)](https://www.linkedin.com/in/raphabarzotto/)
+[![GMail](https://img.shields.io/badge/-GMAIL-D14836?style-for-the-badge&logo=gmail&logoColor=white)](mailto:raphabarzotto@gmail.com)
+[![Certificates](https://img.shields.io/badge/-CERTIFICATES-white?style-for-the-badge&logo=&logoColor=black)](https://drive.google.com/drive/folders/1kpDMcCLdF4scAO1_wIqxx7naF58um6UK?usp=sharing)
 - ⚙️ Mechanical Engineer at [Federal University of Technology - Paraná](http://www.utfpr.edu.br/)
 - 💻 In 2021 decided to study full-stack web-development at [Trybe](https://www.betrybe.com/)
 - 👨‍💻 Currently open to work
 
-[![Linkedin: raphabarzotto](https://img.shields.io/badge/-raphabarzotto-blue?style-for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raphabarzotto/)](https://www.linkedin.com/in/raphabarzotto/)
-[![GMail](https://img.shields.io/badge/-GMAIL-D14836?style-for-the-badge&logo=gmail&logoColor=white)](mailto:raphabarzotto@gmail.com)
-[![Certificates](https://img.shields.io/badge/-CERTIFICATES-white?style-for-the-badge&logo=&logoColor=black)](https://drive.google.com/drive/folders/1kpDMcCLdF4scAO1_wIqxx7naF58um6UK?usp=sharing)
-
 ## ⌨️ Languages and Tools 🖱
-<div>
-
-<a href="https://www.w3schools.com/js/" target="_blank"><img width="32" height="32" src="https://github.com/raphabarzotto/raphabarzotto/blob/main/img/js.png?raw=true"/></a>
-&nbsp; 
-<a href="https://www.w3schools.com/html/" target="_blank"><img width="32" height="32" src="https://github.com/raphabarzotto/raphabarzotto/blob/main/img/html.svg?raw=true"/></a>
-&nbsp; 
-<a href="https://www.w3schools.com/css/" target="_blank"><img width="32" height="32" src="https://github.com/raphabarzotto/raphabarzotto/blob/main/img/css.svg?raw=true"/></a>
-&nbsp; 
-<a href="https://www.w3schools.com/typescript/typescript_intro.php" target="_blank"><img width="32" height="32" src="https://github.com/raphabarzotto/raphabarzotto/blob/main/img/ts.svg?raw=true"/></a>
-&nbsp;
-<a href="https://www.python.org/" target="_blank"><img width="32" height="32" src="https://github.com/raphabarzotto/raphabarzotto/blob/main/img/python.png?raw=true"/></a>
-&nbsp;
-
-<a href="https://nodejs.org/en/" target="_blank"><img width="32" height="32" src="https://github.com/raphabarzotto/raphabarzotto/blob/main/img/nodejs.png?raw=true"/></a>
-&nbsp; 
-<a href="https://pt-br.reactjs.org/" target="_blank"><img width="32" height="32" src="https://github.com/raphabarzotto/raphabarzotto/blob/main/img/react.png?raw=true"/></a>
-&nbsp;
-<a href="https://redux.js.org/" target="_blank"><img width="32" height="32" src="https://github.com/raphabarzotto/raphabarzotto/blob/main/img/redux.png?raw=true"/></a>
-&nbsp;
-<a href="https://www.mysql.com/" target="_blank"><img width="32" height="32" src="https://github.com/raphabarzotto/raphabarzotto/blob/main/img/mysql.png?raw=true"/></a>
-&nbsp; 
-<a href="https://www.mongodb.com/pt-br" target="_blank"><img width="32" height="32" src="https://github.com/raphabarzotto/raphabarzotto/blob/main/img/mongodb.png?raw=true"/></a>
-&nbsp; 
-<a href="https://www.docker.com/" target="_blank"><img width="32" height="32" src="https://github.com/raphabarzotto/raphabarzotto/blob/main/img/docker.png?raw=true"/></a>
-&nbsp; 
-<a href="https://www.heroku.com/" target="_blank"><img width="32" height="32" src="https://github.com/raphabarzotto/raphabarzotto/blob/main/img/heroku.png?raw=true"/></a>
-&nbsp; 
-<a href="https://www.postman.com/" target="_blank"><img width="32" height="32" src="https://github.com/raphabarzotto/raphabarzotto/blob/main/img/postman.png?raw=true"/></a>
-&nbsp;
-<a href="https://code.visualstudio.com/" target="_blank"><img width="32" height="32" src="https://github.com/raphabarzotto/raphabarzotto/blob/main/img/vs.png?raw=true"/></a>
-
-</div>
+| Frontend | Backend | Tests | Tools |
+| ---- | ----- | ----- | ----- |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) | ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white) |  ![Docker](https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=white) |
+| ![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) | ![Mocha.JS](https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown) | ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) |
+| ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) | ![Chai.JS](https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red) | |
+| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) | ![Sinon.JS](https://img.shields.io/badge/Sinon.js-323330?style=for-the-badge&logo=Sinon&logoColor=red) | |
+| ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) | ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) |  ![Testing Library](https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red) | |
+| ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) | ![Sequelize](https://img.shields.io/badge/sequelize.js-323330?style=for-the-badge&logo=sequelize&logoColor=blue) | | |
+| ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) | ![Json Web Tokens](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink) | | |
+| ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) | |
+| ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | | | |
+ |
