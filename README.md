@@ -29,4 +29,6 @@
 ## 🔨 Some of my projects 🔧
 ### Wallet app using react redux
 <a href="https://github.com/raphabarzotto/react-redux-wallet" target="_blank"><img src="./img/wallet.gif" alt="wallet react redux"></a>
+### Blogs API using Sequelize
+<a href="hhttps://github.com/raphabarzotto/sequelize-blogs-api" target="_blank"><img src="./img/blog-api.gif" alt="blog api sequelize"></a>
 - To see more, check pinned repositories below
